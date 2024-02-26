@@ -1,12 +1,19 @@
 import React from "react";
+import GymCard from "./GymCard";
+import '../App.css'
 
-const GymList = () => {
+const GymList = ({ gyms }) => {
   return ( 
-    <>
-      <main>
-        
-      </main>
-    </>
+      <div className="gym-list">
+        {gyms.map( (gym) => 
+          <GymCard 
+            key={gym.id} 
+            name={gym.name} 
+            location={gym.location} 
+            image={gym.image}
+          />
+        )}
+      </div>
    );
 }
  
