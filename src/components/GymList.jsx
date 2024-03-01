@@ -11,6 +11,7 @@ const GymList = ({ gyms }) => {
             name={gym.name} 
             location={gym.location} 
             image={gym.image}
+            link={gym.link}
           />
         )}
       </div>

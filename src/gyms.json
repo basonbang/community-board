@@ -3,61 +3,71 @@
     "id": 1,
     "name": "Warcat Strength",
     "location": "San Jose",
-    "image": "https://static.wixstatic.com/media/d2d6c8_b3e32555e8ec42f3b9d7e61d2d3429c2~mv2.jpeg/v1/fill/w_640,h_382,al_c,q_80,usm_2.00_1.00_0.00,enc_auto/d2d6c8_b3e32555e8ec42f3b9d7e61d2d3429c2~mv2.jpeg"
+    "image": "https://static.wixstatic.com/media/d2d6c8_b3e32555e8ec42f3b9d7e61d2d3429c2~mv2.jpeg/v1/fill/w_640,h_382,al_c,q_80,usm_2.00_1.00_0.00,enc_auto/d2d6c8_b3e32555e8ec42f3b9d7e61d2d3429c2~mv2.jpeg",
+    "link": "https://www.warcatfitness.com/"
   },
   {
     "id": 2,
     "name": "Bay Area Barbell",
     "location": "Richmond",
-    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/l-XYjzQrFtlFvoCQ3a4vdw/348s.jpg"
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/l-XYjzQrFtlFvoCQ3a4vdw/348s.jpg",
+    "link": "https://www.bayareabarbell.com/"
   },
   {
     "id": 3,
     "name": "Eternal Strength",
     "location": "Santa Clara",
-    "image": "https://6f2df30e48f83888fe51-1da2d4f196d22725f1533bcc6cdf4204.ssl.cf2.rackcdn.com/Original/Mow0v_temp_158615968_303564_$2023_12_12_00_53_06_4019.jpg"
+    "image": "https://6f2df30e48f83888fe51-1da2d4f196d22725f1533bcc6cdf4204.ssl.cf2.rackcdn.com/Original/Mow0v_temp_158615968_303564_$2023_12_12_00_53_06_4019.jpg",
+    "link": "https://www.eternalstrengthgym.com/"
 
   },
   {
     "id": 4,
     "name": "Hella Strength",
     "location": "San Jose",
-    "image": "https://static.wixstatic.com/media/c670b8_345d80e4a630413dbdd5d417477c5e66~mv2.png/v1/fill/w_640,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c670b8_345d80e4a630413dbdd5d417477c5e66~mv2.png"
+    "image": "https://static.wixstatic.com/media/c670b8_345d80e4a630413dbdd5d417477c5e66~mv2.png/v1/fill/w_640,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c670b8_345d80e4a630413dbdd5d417477c5e66~mv2.png",
+    "link": "https://www.hella-strength.com/"
   },
   {
     "id": 5,
     "name": "Iron Warehouse",
     "location": "Haywward",
-    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/d43UhJrZ_IU3_TxWkAXyPw/348s.jpg"
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/d43UhJrZ_IU3_TxWkAXyPw/348s.jpg",
+    "link": "https://ironwarehouse510.com/"
   },
   {
     "id": 6,
     "name": "Iron Office",
     "location": "Fresno",
-    "image": "https://theironoffice.com/cdn/shop/files/Gym_12.23-19.jpg?v=1701994187&width=3840"
+    "image": "https://theironoffice.com/cdn/shop/files/Gym_12.23-19.jpg?v=1701994187&width=3840",
+    "link": "https://theironoffice.com/"
   },
   {
     "id": 7,
     "name": "3rd Street Barbell",
     "location": "Sacramento",
-    "image": "https://mapofstrength.com/media/3sbb.jpg" 
+    "image": "https://mapofstrength.com/media/3sbb.jpg",
+    "link": "https://www.thirdstreetbarbell.com/"
   },
   {
     "id": 8,
     "name": "Untamed Strength",
     "location": "Sacramento",
-    "image": "https://www.trainuntamed.com/wp-content/uploads/2016/10/IMG_0087-1-1024x683.jpeg"
+    "image": "https://www.trainuntamed.com/wp-content/uploads/2016/10/IMG_0087-1-1024x683.jpeg",
+    "link": "https://www.trainuntamed.com/"
   },
   {
     "id": 9,
     "name": "Fullsterkur Barbell Club",
     "location": "San Carlos",
-    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/n9gI9VKo3uH6Za3hqXkZSQ/348s.jpg"
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/n9gI9VKo3uH6Za3hqXkZSQ/348s.jpg",
+    "link": "https://www.fullsterkurbarbellclub.com/"
   },
   {
     "id": 10,
     "name": "Village Hidden in Iron",
     "location": "San Francisco",
-    "image": "https://www.allworship.com/wp-content/uploads/2023/08/bigstock-Under-Construction-Industrial-352850024-768x346.jpg" 
+    "image": "https://www.allworship.com/wp-content/uploads/2023/08/bigstock-Under-Construction-Industrial-352850024-768x346.jpg" ,
+    "link": "https://www.instagram.com/villagesanfrancisco/"
   }
 ]
